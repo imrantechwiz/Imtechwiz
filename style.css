@@ -333,7 +333,7 @@ header.sticky ul li a
     width: 60%;
  }
  .progress-line.c span{
-    width: 50%;
+    width: 40%;
  }
  .progress-line.blender span{
     width: 70%;
@@ -345,13 +345,13 @@ header.sticky ul li a
     width: 90%;
  }
  .progress-line.ps span{
+    width: 45%;
+ }
+ .progress-line.py span{
     width: 50%;
  }
- .progress-line.lr span{
-    width: 60%;
- }
- .progress-line.ai span{
-    width: 40%;
+ .progress-line.aws span{
+    width: 20%;
  }
 .bar .progress-line span::before{
     position: absolute;
@@ -387,11 +387,11 @@ header.sticky ul li a
  .progress-line.js span::after{
     content: "30%";
  }
- .progress-line.cpp span::after{
-    content: "60%";
+ .progress-line.java span::after{
+    content: "80%";
  }
  .progress-line.c span::after{
-    content: "50%";
+    content: "40%";
  }
  .progress-line.blender span::after{
     content: "70%";
@@ -399,17 +399,17 @@ header.sticky ul li a
  .progress-line.kotlin span::after{
     content: "20%";
  }
- .progress-line.canva span::after{
-    content: "90%";
- }
- .progress-line.ps span::after{
-    content: "50%";
- }
- .progress-line.lr span::after{
+ .progress-line.cpp span::after{
     content: "60%";
  }
- .progress-line.ai span::after{
-    content: "40%";
+ .progress-line.ps span::after{
+    content: "45%";
+ }
+ .progress-line.py span::after{
+    content: "50%";
+ }
+ .progress-line.aws span::after{
+    content: "20%";
  }
  @media (max-width: 991px)
 {
