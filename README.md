@@ -4,4 +4,4 @@ Connect me Through this!
 
 Link:- https://imrantechwiz.github.io/Imtechwiz/ 
                       or
-        https://microsoft.imtechwiz.games
+        http://microsoft.imtechwiz.games
