@@ -5,3 +5,5 @@ Connect me Through this!
 Link:- https://imrantechwiz.github.io/Imtechwiz/ 
                       or
         http://microsoft.imtechwiz.games
+
+https://yellow-meadow-003421910.1.azurestaticapps.net/
